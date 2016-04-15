@@ -1,0 +1,1252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ECA_WEB
+</name>
+</assembly>
+<members>
+<member name="F:ECA_WEB.ECA.nav1">
+	<summary>
+nav1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.ECA.header">
+	<summary>
+header 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.ECA.ECAPlaceHolder">
+	<summary>
+ECAPlaceHolder 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.ECA.footer">
+	<summary>
+footer 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.mananewpasswordform">
+	<summary>
+mananewpasswordform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.mananewpasswordconfirmform">
+	<summary>
+mananewpasswordconfirmform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.manapasswordcheckform">
+	<summary>
+manapasswordcheckform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.mananewpasswordform2">
+	<summary>
+mananewpasswordform2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.username">
+	<summary>
+username 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.oldpassword">
+	<summary>
+oldpassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.newpassword">
+	<summary>
+newpassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.newpasswordconfirmation">
+	<summary>
+newpasswordconfirmation 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_changep.btnmana">
+	<summary>
+btnmana 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB._default.phDefault">
+	<summary>
+phDefault 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_log_in.stu_log_email">
+	<summary>
+stu_log_email 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_log_in.stu_log_password">
+	<summary>
+stu_log_password 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_log_in.btn_stu_log">
+	<summary>
+btn_stu_log 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_log_in.stulogmenu">
+	<summary>
+stulogmenu 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Menu1">
+	<summary>
+Menu1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Usercenter">
+	<summary>
+Usercenter 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.date">
+	<summary>
+date 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.students">
+	<summary>
+students 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.studennt_report">
+	<summary>
+studennt_report 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Student_list">
+	<summary>
+Student_list 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.stustudent">
+	<summary>
+stustudent 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.stuclub">
+	<summary>
+stuclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.stututorgroup">
+	<summary>
+stututorgroup 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.btnstu">
+	<summary>
+btnstu 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.stu_list">
+	<summary>
+stu_list 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Club_list">
+	<summary>
+Club_list 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.clubclub">
+	<summary>
+clubclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.clubteacher">
+	<summary>
+clubteacher 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.clubtype">
+	<summary>
+clubtype 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.btnclub">
+	<summary>
+btnclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.gvclub_list">
+	<summary>
+gvclub_list 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Trip_booking_report">
+	<summary>
+Trip_booking_report 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.gvadmtripbooking">
+	<summary>
+gvadmtripbooking 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.btnadmintripaccept">
+	<summary>
+btnadmintripaccept 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.btnadmintriprefuse">
+	<summary>
+btnadmintriprefuse 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.Change_password">
+	<summary>
+Change_password 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.mananewpasswordform">
+	<summary>
+mananewpasswordform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.mananewpasswordconfirmform">
+	<summary>
+mananewpasswordconfirmform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.manapasswordcheckform">
+	<summary>
+manapasswordcheckform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.mananewpasswordform2">
+	<summary>
+mananewpasswordform2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.manausername">
+	<summary>
+manausername 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.manapassword">
+	<summary>
+manapassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.manaunewsername">
+	<summary>
+manaunewsername 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.mananewpassword">
+	<summary>
+mananewpassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.mananewpasswordconfirmation">
+	<summary>
+mananewpasswordconfirmation 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_main.btnmana">
+	<summary>
+btnmana 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_emailvalidation.stu_emailvalidation_inputlabel">
+	<summary>
+stu_emailvalidation_inputlabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_emailvalidation.stu_emailvalidation_text">
+	<summary>
+stu_emailvalidation_text 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_emailvalidation.stu_emailvalidation_click">
+	<summary>
+stu_emailvalidation_click 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_attendancereport.student_club_name">
+	<summary>
+student_club_name 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_attendancereport.sttudentattendancereport">
+	<summary>
+sttudentattendancereport 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_forgetp.stu_emailvalidation_inputlabel">
+	<summary>
+stu_emailvalidation_inputlabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_forgetp.stu_findpassword_text">
+	<summary>
+stu_findpassword_text 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_forgetp.stu_findpassword_click">
+	<summary>
+stu_findpassword_click 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="P:ECA_WEB.My.MyWebExtension.Computer">
+	<summary>
+ 返回有关主计算机的信息。
+ </summary>
+</member><member name="P:ECA_WEB.My.MyWebExtension.User">
+	<summary>
+ 返回当前 Web 用户的信息。
+ </summary>
+</member><member name="P:ECA_WEB.My.MyWebExtension.Request">
+	<summary>
+ 返回 Request 对象。
+ </summary>
+</member><member name="P:ECA_WEB.My.MyWebExtension.Response">
+	<summary>
+ 返回 Response 对象。
+ </summary>
+</member><member name="P:ECA_WEB.My.MyWebExtension.Log">
+	<summary>
+ 返回 Asp 日志对象。
+ </summary>
+</member><member name="T:ECA_WEB.My.MyWebExtension">
+	<summary>
+ 用于定义 Web 项目的“My 命名空间”中可用属性的模块。
+ </summary>
+	<remarks></remarks>
+</member><member name="F:ECA_WEB.admin_studentlist.student_club_name">
+	<summary>
+student_club_name 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_studentlist.gvclubstulist">
+	<summary>
+gvclubstulist 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.emailvalidation">
+	<summary>
+emailvalidation 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_emailform">
+	<summary>
+stu_reg_emailform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_tutorform">
+	<summary>
+stu_reg_tutorform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_passform">
+	<summary>
+stu_reg_passform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_passconfirmform">
+	<summary>
+stu_reg_passconfirmform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_email">
+	<summary>
+stu_reg_email 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_password">
+	<summary>
+stu_reg_password 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_password_confirm">
+	<summary>
+stu_reg_password_confirm 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.stu_reg_tutor">
+	<summary>
+stu_reg_tutor 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_sign_up.btn_stu_reg">
+	<summary>
+btn_stu_reg 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labelclubname">
+	<summary>
+labelclubname 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltriptitle">
+	<summary>
+labeltriptitle 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltripteacher">
+	<summary>
+labeltripteacher 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltripdate">
+	<summary>
+labeltripdate 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltripouttime">
+	<summary>
+labeltripouttime 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltripbacktime">
+	<summary>
+labeltripbacktime 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.tripdescription">
+	<summary>
+tripdescription 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.Trip.labeltripstate">
+	<summary>
+labeltripstate 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_log_in.admin_username">
+	<summary>
+admin_username 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_log_in.admin_password">
+	<summary>
+admin_password 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.admin_log_in.btn_admin_log">
+	<summary>
+btn_admin_log 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.changepassword">
+	<summary>
+changepassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.name">
+	<summary>
+name 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.sportclub">
+	<summary>
+sportclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.academicclub">
+	<summary>
+academicclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.spclub">
+	<summary>
+spclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.acclub">
+	<summary>
+acclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.student_main.selectsubmmit">
+	<summary>
+selectsubmmit 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_log_in.tec_log_email">
+	<summary>
+tec_log_email 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_log_in.tec_log_password">
+	<summary>
+tec_log_password 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_log_in.btn_tec_log">
+	<summary>
+btn_tec_log 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.Menu1">
+	<summary>
+Menu1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.panelcheckattendance">
+	<summary>
+panelcheckattendance 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.sportclub">
+	<summary>
+sportclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spattendance">
+	<summary>
+spattendance 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.academicclub">
+	<summary>
+academicclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acaattendance">
+	<summary>
+acaattendance 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.attsubmit">
+	<summary>
+attsubmit 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.paneladdclub">
+	<summary>
+paneladdclub 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.addnewspclubbtn">
+	<summary>
+addnewspclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.modifyspclubbtn">
+	<summary>
+modifyspclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.removespclubbtn">
+	<summary>
+removespclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubsetting">
+	<summary>
+spclubsetting 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubname">
+	<summary>
+spclubname 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubmaxmember">
+	<summary>
+spclubmaxmember 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.saveaspclubbtn">
+	<summary>
+saveaspclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubsettinglabel">
+	<summary>
+spclubsettinglabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubnamelabel">
+	<summary>
+spclubnamelabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.spclubmaxmemberlabel">
+	<summary>
+spclubmaxmemberlabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.addnewacclubbtn">
+	<summary>
+addnewacclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.modifyacclubbtn">
+	<summary>
+modifyacclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.removeacclubbtn">
+	<summary>
+removeacclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubsetting">
+	<summary>
+acclubsetting 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubnamevali">
+	<summary>
+acclubnamevali 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubname">
+	<summary>
+acclubname 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubmaxnumber">
+	<summary>
+acclubmaxnumber 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.saveacclubbtn">
+	<summary>
+saveacclubbtn 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubsettinglabel">
+	<summary>
+acclubsettinglabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubnamelabel">
+	<summary>
+acclubnamelabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.acclubmaxnumberlabel">
+	<summary>
+acclubmaxnumberlabel 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.paneltripbooking">
+	<summary>
+paneltripbooking 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.btnaddtripbooking">
+	<summary>
+btnaddtripbooking 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.paneltripbookingadd">
+	<summary>
+paneltripbookingadd 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.tripdropclubname">
+	<summary>
+tripdropclubname 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.triptexttriptitle">
+	<summary>
+triptexttriptitle 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.tripdate">
+	<summary>
+tripdate 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.tripouttime">
+	<summary>
+tripouttime 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.tripbacktime">
+	<summary>
+tripbacktime 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.tripdescription">
+	<summary>
+tripdescription 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.btnpaneltripadd">
+	<summary>
+btnpaneltripadd 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.restripclubdate">
+	<summary>
+restripclubdate 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.btntripclubresearch">
+	<summary>
+btntripclubresearch 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teachers_main.gvteatripbooking">
+	<summary>
+gvteatripbooking 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.mananewpasswordform">
+	<summary>
+mananewpasswordform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.mananewpasswordconfirmform">
+	<summary>
+mananewpasswordconfirmform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.manapasswordcheckform">
+	<summary>
+manapasswordcheckform 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.mananewpasswordform2">
+	<summary>
+mananewpasswordform2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.username">
+	<summary>
+username 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.oldpassword">
+	<summary>
+oldpassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.newpassword">
+	<summary>
+newpassword 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.newpasswordconfirmation">
+	<summary>
+newpasswordconfirmation 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.teacher_changep.btnmana">
+	<summary>
+btnmana 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.header.pnlnormal">
+	<summary>
+pnlnormal 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.header.pnlhome">
+	<summary>
+pnlhome 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.header.btn_2">
+	<summary>
+btn_2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.header.btn_1">
+	<summary>
+btn_1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.nav">
+	<summary>
+nav 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.NavMenu1">
+	<summary>
+NavMenu1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.NavMenu2">
+	<summary>
+NavMenu2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.nav_stu">
+	<summary>
+nav_stu 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.NavstuMenu1">
+	<summary>
+NavstuMenu1 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member><member name="F:ECA_WEB.nav.NavstuMenu2">
+	<summary>
+NavstuMenu2 控件。
+</summary>
+	<remarks>
+自动生成的字段。
+若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+</remarks>
+</member>
+</members>
+</doc>

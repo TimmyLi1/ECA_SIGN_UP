@@ -1,0 +1,54 @@
+﻿/*This css file is used to modify the outview of different classes*/
+body {
+}
+.container{
+    padding:0px;
+    margin:0px;
+}
+
+.nav{
+    background-color: #333;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:auto;
+    height:50px;
+
+}
+.nav ul{
+    margin-top:15px;
+}
+.nav ul li{
+    padding: 0 10px;
+    list-style:none;
+    color:white;
+    font-family:'Times New Roman';
+    font-size:18px;
+
+    display:inline;
+
+}
+.nav .pull-right{
+  left:200px;
+} 
+.jumbotron{
+    background-color:#808080;
+    padding:40px;
+    background-repeat:no-repeat;
+}
+.jumbotron h1{
+    color:white;
+    font-size:50px;
+    top:10px;
+}
+    .jumbotron .container a {
+        position: relative;
+        background-color: black;
+        font-size: 20px;
+        list-style: none;
+    } 
+.main {
+           margin:0px; padding:10px 0px 0px 10px; width:98%; 
+float:left;
+margin-top:-30px;
+
+}

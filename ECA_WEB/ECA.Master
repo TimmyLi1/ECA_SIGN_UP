@@ -1,0 +1,41 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ECA.master.vb" Inherits="ECA_WEB.ECA" %>
+    <!-- *****************************************************************
+    invoke nav, header and footer to the master page
+    ******************************************************************-->
+<%@ Register src="inc/nav.ascx" tagname="nav" tagprefix="uc1" %>
+<%@ Register Src="~/inc/header.ascx" TagPrefix="uc2" TagName="header" %>
+<%@ Register Src="~/inc/footer.ascx" TagPrefix="uc3" TagName="footer" %>
+
+
+
+    <!-- *****************************************************************
+    the basic stucture of master page. It will be applied to all the pages.
+    *******************************************************************-->
+<html>
+<head runat="server">
+    <!-- *****************************************************************
+            Website title: ECA Sign Up
+            input bootstrap structure into the page
+            input custom css file into the page
+    *******************************************************************-->
+    <title>ECA Sign Up</title>
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap.css" />
+    <link href="Content/ECA.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- *****************************************************************
+            Structure: nav
+                       header
+                       content
+                       footer
+    *******************************************************************-->
+    <form runat="server">
+    <uc1:nav ID="nav1" runat="server" />
+    <uc2:header runat="server" id="header" />
+                 <asp:ContentPlaceHolder ID="ECAPlaceHolder"  runat="server">
+                 </asp:ContentPlaceHolder>
+        <uc3:footer runat="server" id="footer" />
+        <br />
+    </form>
+</body>
+</html>
